@@ -1,7 +1,12 @@
 body{
-	background-color: green;
+	background-color: white;
 }
 
 a {
-	text-decoration:home;
+	text-decoration:none;
+}
+
+ul.menu {
+	background-color:#218A8E;
+	list-style-type:none;
 }
